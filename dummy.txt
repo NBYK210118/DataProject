@@ -1,1 +1,2 @@
 This is the first file of our tasks
+New text line has been added.
